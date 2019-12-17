@@ -1,2 +1,2 @@
 # Intermediate
-Intermediate project 
+Intermediate Challenges 
